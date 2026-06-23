@@ -1,4 +1,4 @@
-import java.util.Arrays;
+
 
 class Solution {
     public String[] findRelativeRanks(int[] score) {
@@ -26,7 +26,7 @@ class Solution {
             } else if (i == 2) {
                 res[originalIndex] = "Bronze Medal";
             } else {
-                res[originalIndex] = String.valueOf(i + 1);
+                res[originalIndex] = (i+1)+"";
             }
         }
         
