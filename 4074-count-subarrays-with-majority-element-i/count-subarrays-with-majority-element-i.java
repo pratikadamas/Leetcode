@@ -9,8 +9,8 @@ class Solution {
                 int cnt=0;
                 for(int j=i;j<n;j++){
                     if(nums[j]==target) cnt++;
-
-                    if(cnt>(j-i+1)/2) count ++;
+                        int curr_length=(j-i+1)/2;
+                    if(cnt>curr_length) count ++;
                 }
 
         }
