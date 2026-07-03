@@ -80,3 +80,35 @@ This is a personal practice repository, but suggestions and improvements are wel
 ## ⭐ Show Some Support
 
 If you find this repository helpful, consider giving it a ⭐ — it motivates me to keep solving and adding more problems!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/pratikadamas/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Binary Search
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/pratikadamas/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/pratikadamas/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/pratikadamas/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/pratikadamas/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/pratikadamas/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/pratikadamas/Leetcode/tree/master/3620-network-recovery-pathways) |
+<!---LeetCode Topics End-->
