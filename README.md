@@ -127,6 +127,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pratikadamas/Leetcode/tree/master/0013-roman-to-integer) |
+| [0290-word-pattern](https://github.com/pratikadamas/Leetcode/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -135,4 +136,5 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pratikadamas/Leetcode/tree/master/0013-roman-to-integer) |
+| [0290-word-pattern](https://github.com/pratikadamas/Leetcode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
