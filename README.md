@@ -86,6 +86,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/pratikadamas/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikadamas/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/pratikadamas/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -158,4 +159,8 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pratikadamas/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/pratikadamas/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
