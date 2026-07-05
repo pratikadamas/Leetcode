@@ -88,6 +88,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pratikadamas/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/pratikadamas/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikadamas/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/pratikadamas/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -98,6 +99,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/pratikadamas/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/pratikadamas/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -127,6 +129,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/pratikadamas/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikadamas/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
