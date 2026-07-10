@@ -138,6 +138,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pratikadamas/Leetcode/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/pratikadamas/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pratikadamas/Leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pratikadamas/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -151,6 +152,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pratikadamas/Leetcode/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/pratikadamas/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pratikadamas/Leetcode/tree/master/0290-word-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratikadamas/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pratikadamas/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
