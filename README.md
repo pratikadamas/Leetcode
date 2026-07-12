@@ -154,6 +154,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pratikadamas/Leetcode/tree/master/0013-roman-to-integer) |
+| [0172-factorial-trailing-zeroes](https://github.com/pratikadamas/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pratikadamas/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pratikadamas/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
