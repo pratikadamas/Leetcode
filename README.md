@@ -89,6 +89,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0238-product-of-array-except-self](https://github.com/pratikadamas/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0912-sort-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0912-sort-an-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/pratikadamas/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/pratikadamas/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pratikadamas/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -125,6 +126,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0912-sort-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikadamas/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/pratikadamas/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -179,6 +181,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0912-sort-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/pratikadamas/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikadamas/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
@@ -213,4 +216,24 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pratikadamas/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
