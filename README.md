@@ -86,6 +86,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pratikadamas/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/pratikadamas/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -112,6 +113,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pratikadamas/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/pratikadamas/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratikadamas/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pratikadamas/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
