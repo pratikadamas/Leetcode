@@ -86,6 +86,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pratikadamas/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratikadamas/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/pratikadamas/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -186,6 +187,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pratikadamas/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/pratikadamas/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/pratikadamas/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pratikadamas/Leetcode/tree/master/0290-word-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratikadamas/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -282,4 +284,8 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratikadamas/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pratikadamas/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
