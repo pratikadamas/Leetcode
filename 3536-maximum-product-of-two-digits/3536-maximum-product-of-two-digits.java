@@ -1,23 +1,21 @@
 class Solution {
     public int maxProduct(int n) {
-        if(n==0)
-            return 0;
-       
-        int size=0;
-        int temp=n;
+        int max1 = -1;
+        int max2 = -1;
 
-        while(n>0){
-            n=n/10;
-           size++;
-        }
-        int arr[]=new int[size];
-     
-        for(int i=0;i<size;i++){
-            arr[i]= temp%10;
-            temp=temp/10;
-        }
-        Arrays.sort(arr);
+        while (n > 0) {
+            int digit = n % 10;
 
-      return arr[size-1]*arr[size-2];  
+            if (digit > max1) {
+                max2 = max1;
+                max1 = digit;
+            } else if (digit > max2) {
+                max2 = digit;
+            }
+
+            n /= 10;
+        }
+
+        return max1 * max2;
     }
 }
