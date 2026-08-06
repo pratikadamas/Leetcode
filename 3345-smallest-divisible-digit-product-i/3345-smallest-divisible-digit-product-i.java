@@ -15,7 +15,7 @@ class Solution {
         return res;
         
     }
-
+// function to calculate 
     public static int digitpro(int m)
     {
         int i=1;
