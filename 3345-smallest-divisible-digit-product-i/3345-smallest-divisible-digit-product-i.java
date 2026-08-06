@@ -2,7 +2,7 @@ class Solution {
     public int smallestNumber(int n, int t)
     {
         int res=0;
-        while(n<=n+10)
+        while(true)
         {
             if(digitpro(n)%t==0)
             {
