@@ -105,6 +105,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [1406-stone-game-iii](https://github.com/pratikadamas/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratikadamas/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pratikadamas/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pratikadamas/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratikadamas/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratikadamas/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikadamas/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -233,6 +234,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0290-word-pattern](https://github.com/pratikadamas/Leetcode/tree/master/0290-word-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratikadamas/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pratikadamas/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pratikadamas/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/pratikadamas/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pratikadamas/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratikadamas/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -373,6 +375,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pratikadamas/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/pratikadamas/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Database
 |  |
@@ -426,4 +429,8 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pratikadamas/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pratikadamas/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
