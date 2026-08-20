@@ -87,6 +87,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pratikadamas/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/pratikadamas/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pratikadamas/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/pratikadamas/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratikadamas/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -139,6 +140,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pratikadamas/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/pratikadamas/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/pratikadamas/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratikadamas/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -262,6 +264,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pratikadamas/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pratikadamas/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -308,6 +311,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pratikadamas/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratikadamas/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pratikadamas/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/pratikadamas/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -392,6 +396,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pratikadamas/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pratikadamas/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
