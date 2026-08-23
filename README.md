@@ -87,6 +87,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pratikadamas/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/pratikadamas/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/pratikadamas/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pratikadamas/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/pratikadamas/Leetcode/tree/master/0120-triangle) |
@@ -268,6 +269,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pratikadamas/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/pratikadamas/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pratikadamas/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -279,6 +281,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pratikadamas/Leetcode/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
