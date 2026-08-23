@@ -230,6 +230,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [1406-stone-game-iii](https://github.com/pratikadamas/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pratikadamas/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pratikadamas/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/pratikadamas/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pratikadamas/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/pratikadamas/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pratikadamas/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -255,6 +256,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0290-word-pattern](https://github.com/pratikadamas/Leetcode/tree/master/0290-word-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratikadamas/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pratikadamas/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/pratikadamas/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pratikadamas/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/pratikadamas/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pratikadamas/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -327,6 +329,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pratikadamas/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/pratikadamas/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/pratikadamas/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pratikadamas/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pratikadamas/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratikadamas/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -438,6 +441,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [1406-stone-game-iii](https://github.com/pratikadamas/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pratikadamas/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/pratikadamas/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/pratikadamas/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pratikadamas/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
