@@ -261,6 +261,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0014-longest-common-prefix](https://github.com/pratikadamas/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/pratikadamas/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pratikadamas/Leetcode/tree/master/0290-word-pattern) |
+| [0481-magical-string](https://github.com/pratikadamas/Leetcode/tree/master/0481-magical-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratikadamas/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pratikadamas/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/pratikadamas/Leetcode/tree/master/1927-sum-game) |
@@ -283,6 +284,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0042-trapping-rain-water](https://github.com/pratikadamas/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pratikadamas/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0481-magical-string](https://github.com/pratikadamas/Leetcode/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikadamas/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pratikadamas/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
