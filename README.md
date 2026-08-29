@@ -86,6 +86,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pratikadamas/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/pratikadamas/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/pratikadamas/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/pratikadamas/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -134,6 +135,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pratikadamas/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikadamas/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -372,6 +374,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pratikadamas/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/pratikadamas/Leetcode/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
