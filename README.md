@@ -158,6 +158,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0042-trapping-rain-water](https://github.com/pratikadamas/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/pratikadamas/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/pratikadamas/Leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/pratikadamas/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/pratikadamas/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratikadamas/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/pratikadamas/Leetcode/tree/master/0486-predict-the-winner) |
@@ -274,6 +275,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | ------- |
 | [0013-roman-to-integer](https://github.com/pratikadamas/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pratikadamas/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/pratikadamas/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/pratikadamas/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pratikadamas/Leetcode/tree/master/0290-word-pattern) |
 | [0481-magical-string](https://github.com/pratikadamas/Leetcode/tree/master/0481-magical-string) |
