@@ -265,6 +265,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0013-roman-to-integer](https://github.com/pratikadamas/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/pratikadamas/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/pratikadamas/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0263-ugly-number](https://github.com/pratikadamas/Leetcode/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/pratikadamas/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0633-sum-of-square-numbers) |
