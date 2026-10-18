@@ -273,6 +273,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0486-predict-the-winner](https://github.com/pratikadamas/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/pratikadamas/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/pratikadamas/Leetcode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/pratikadamas/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
