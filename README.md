@@ -112,6 +112,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [1394-find-lucky-integer-in-an-array](https://github.com/pratikadamas/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/pratikadamas/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pratikadamas/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/pratikadamas/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pratikadamas/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/pratikadamas/Leetcode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pratikadamas/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -404,6 +405,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pratikadamas/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/pratikadamas/Leetcode/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/pratikadamas/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pratikadamas/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pratikadamas/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/pratikadamas/Leetcode/tree/master/1872-stone-game-viii) |
