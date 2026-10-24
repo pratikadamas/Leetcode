@@ -12,4 +12,5 @@ class Solution {
         int end = Math.min(toDay(leaveAlice), toDay(leaveBob));
         return Math.max(0, end - start + 1);
     }
+    
 }
