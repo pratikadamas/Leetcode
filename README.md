@@ -105,6 +105,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0877-stone-game](https://github.com/pratikadamas/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/pratikadamas/Leetcode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/pratikadamas/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/pratikadamas/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/pratikadamas/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/pratikadamas/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -227,6 +228,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/pratikadamas/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/pratikadamas/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pratikadamas/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/pratikadamas/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikadamas/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -236,6 +238,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/pratikadamas/Leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/pratikadamas/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/pratikadamas/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/pratikadamas/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pratikadamas/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -398,12 +401,14 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/pratikadamas/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pratikadamas/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/pratikadamas/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/pratikadamas/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/pratikadamas/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pratikadamas/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/pratikadamas/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pratikadamas/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
