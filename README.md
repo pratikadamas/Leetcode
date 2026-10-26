@@ -227,6 +227,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pratikadamas/Leetcode/tree/master/0100-same-tree) |
 | [1096-brace-expansion-ii](https://github.com/pratikadamas/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/pratikadamas/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pratikadamas/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -401,6 +402,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pratikadamas/Leetcode/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/pratikadamas/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pratikadamas/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/pratikadamas/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -660,4 +662,12 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pratikadamas/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/pratikadamas/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/pratikadamas/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
