@@ -99,6 +99,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0238-product-of-array-except-self](https://github.com/pratikadamas/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikadamas/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pratikadamas/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/pratikadamas/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/pratikadamas/Leetcode/tree/master/0735-asteroid-collision) |
@@ -285,6 +286,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0070-climbing-stairs](https://github.com/pratikadamas/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/pratikadamas/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/pratikadamas/Leetcode/tree/master/0263-ugly-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pratikadamas/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/pratikadamas/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0633-sum-of-square-numbers) |
