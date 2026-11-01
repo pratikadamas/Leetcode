@@ -338,6 +338,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0115-distinct-subsequences](https://github.com/pratikadamas/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/pratikadamas/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pratikadamas/Leetcode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pratikadamas/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/pratikadamas/Leetcode/tree/master/0481-magical-string) |
 | [0678-valid-parenthesis-string](https://github.com/pratikadamas/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratikadamas/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -373,6 +374,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0015-3sum](https://github.com/pratikadamas/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/pratikadamas/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pratikadamas/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pratikadamas/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0481-magical-string](https://github.com/pratikadamas/Leetcode/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0633-sum-of-square-numbers) |
