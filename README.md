@@ -342,6 +342,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0290-word-pattern](https://github.com/pratikadamas/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratikadamas/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/pratikadamas/Leetcode/tree/master/0481-magical-string) |
+| [0541-reverse-string-ii](https://github.com/pratikadamas/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/pratikadamas/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratikadamas/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/pratikadamas/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -379,6 +380,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0345-reverse-vowels-of-a-string](https://github.com/pratikadamas/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikadamas/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0481-magical-string](https://github.com/pratikadamas/Leetcode/tree/master/0481-magical-string) |
+| [0541-reverse-string-ii](https://github.com/pratikadamas/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikadamas/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pratikadamas/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
