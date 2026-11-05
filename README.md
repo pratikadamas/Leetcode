@@ -128,6 +128,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [2029-stone-game-ix](https://github.com/pratikadamas/Leetcode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pratikadamas/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pratikadamas/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pratikadamas/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pratikadamas/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pratikadamas/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pratikadamas/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -415,6 +416,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pratikadamas/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pratikadamas/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pratikadamas/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pratikadamas/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pratikadamas/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratikadamas/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratikadamas/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -504,6 +506,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pratikadamas/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2029-stone-game-ix](https://github.com/pratikadamas/Leetcode/tree/master/2029-stone-game-ix) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pratikadamas/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratikadamas/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratikadamas/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pratikadamas/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
