@@ -1,4 +1,4 @@
-# 🚀 LeetCode Solutions
+# 🚀 LeetCode Problem Solutions
 
 A collection of my LeetCode problem solutions implemented in **Java**, **C++**, and **Python**, organized by topic for easy navigation and revision.
 
