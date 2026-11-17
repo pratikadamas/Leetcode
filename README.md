@@ -364,6 +364,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0481-magical-string](https://github.com/pratikadamas/Leetcode/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/pratikadamas/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/pratikadamas/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/pratikadamas/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratikadamas/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/pratikadamas/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/pratikadamas/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -404,6 +405,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0481-magical-string](https://github.com/pratikadamas/Leetcode/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/pratikadamas/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/pratikadamas/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/pratikadamas/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikadamas/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pratikadamas/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/pratikadamas/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -480,6 +482,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0042-trapping-rain-water](https://github.com/pratikadamas/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/pratikadamas/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/pratikadamas/Leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/pratikadamas/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratikadamas/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pratikadamas/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pratikadamas/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -574,6 +577,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/pratikadamas/Leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/pratikadamas/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/pratikadamas/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/pratikadamas/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/pratikadamas/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
