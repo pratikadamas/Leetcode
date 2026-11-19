@@ -133,6 +133,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pratikadamas/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pratikadamas/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pratikadamas/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pratikadamas/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/pratikadamas/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pratikadamas/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pratikadamas/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -433,6 +434,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pratikadamas/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pratikadamas/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pratikadamas/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pratikadamas/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/pratikadamas/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pratikadamas/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pratikadamas/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -503,6 +505,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [1927-sum-game](https://github.com/pratikadamas/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/pratikadamas/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pratikadamas/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pratikadamas/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pratikadamas/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratikadamas/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pratikadamas/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
