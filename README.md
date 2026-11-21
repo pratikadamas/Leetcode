@@ -146,6 +146,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pratikadamas/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pratikadamas/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratikadamas/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pratikadamas/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pratikadamas/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pratikadamas/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/pratikadamas/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -294,6 +295,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratikadamas/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pratikadamas/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pratikadamas/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pratikadamas/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pratikadamas/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pratikadamas/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pratikadamas/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -390,6 +392,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratikadamas/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pratikadamas/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pratikadamas/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pratikadamas/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pratikadamas/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/pratikadamas/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pratikadamas/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -456,6 +459,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pratikadamas/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/pratikadamas/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/pratikadamas/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pratikadamas/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Union-Find
 |  |
 | ------- |
@@ -730,6 +734,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/pratikadamas/Leetcode/tree/master/0100-same-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pratikadamas/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
