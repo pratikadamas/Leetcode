@@ -324,6 +324,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0877-stone-game](https://github.com/pratikadamas/Leetcode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/pratikadamas/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/pratikadamas/Leetcode/tree/master/1140-stone-game-ii) |
+| [1323-maximum-69-number](https://github.com/pratikadamas/Leetcode/tree/master/1323-maximum-69-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pratikadamas/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/pratikadamas/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/pratikadamas/Leetcode/tree/master/1406-stone-game-iii) |
@@ -516,6 +517,7 @@ If you find this repository helpful, consider giving it a ⭐ — it motivates m
 | [0678-valid-parenthesis-string](https://github.com/pratikadamas/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratikadamas/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pratikadamas/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1323-maximum-69-number](https://github.com/pratikadamas/Leetcode/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/pratikadamas/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pratikadamas/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/pratikadamas/Leetcode/tree/master/1927-sum-game) |
